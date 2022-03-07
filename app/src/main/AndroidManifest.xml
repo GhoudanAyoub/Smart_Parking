@@ -56,7 +56,6 @@
                     android:host="@string/firebase_page_url"
                     android:pathPrefix="@string/firebase_page_path"
                     android:scheme="@string/firebase_page_protocol" />
-                <!-- note that the leading "/" is required for pathPrefix -->
             </intent-filter>
             <intent-filter android:label="one-Q-shop">
                 <action android:name="android.intent.action.VIEW" />

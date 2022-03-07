@@ -2,9 +2,9 @@
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimary">@color/orange_A700</item>
+        <item name="colorPrimaryDark">@color/orange_A700</item>
+        <item name="colorAccent">@color/orange_500</item>
         <item name="windowActionModeOverlay">true</item>
         <item name="android:actionModeBackground">@color/blue_grey_600</item>
         <item name="android:dialogTheme">@style/Dialog.Theme</item>
@@ -72,7 +72,7 @@
 
     <style name="Button.White.Accent" parent="@style/Widget.AppCompat.Button.Colored">
         <item name="colorButtonNormal">@android:color/white</item>
-        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textColor">@color/orange_500</item>
     </style>
 
     <!--style for ripple library-->

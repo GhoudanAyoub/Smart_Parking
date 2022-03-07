@@ -96,11 +96,11 @@
                         android:paddingRight="@dimen/spacing_large">
 
                         <ImageButton
-                            android:clickable="false"
                             android:layout_width="wrap_content"
                             android:layout_height="match_parent"
                             android:background="@color/transparent"
-                            android:tint="@color/deep_purple_500"
+                            android:clickable="false"
+                            android:tint="@color/orange_500"
                             app:srcCompat="@drawable/ic_baseline_account_circle_24" />
 
                         <TextView
@@ -143,11 +143,11 @@
                         android:paddingRight="@dimen/spacing_large">
 
                         <ImageButton
-                            android:clickable="false"
                             android:layout_width="wrap_content"
                             android:layout_height="match_parent"
                             android:background="@color/transparent"
-                            android:tint="@color/deep_purple_500"
+                            android:clickable="false"
+                            android:tint="@color/orange_500"
                             app:srcCompat="@drawable/ic_upi" />
 
                         <TextView
@@ -184,12 +184,12 @@
                         android:paddingRight="@dimen/spacing_large">
 
                         <ImageButton
-                            android:clickable="false"
-
                             android:layout_width="wrap_content"
+
                             android:layout_height="match_parent"
                             android:background="@color/transparent"
-                            android:tint="@color/deep_purple_500"
+                            android:clickable="false"
+                            android:tint="@color/orange_500"
                             app:srcCompat="@drawable/ic_baseline_vpn_key_24" />
 
                         <TextView
@@ -268,11 +268,11 @@
                         android:paddingRight="@dimen/spacing_large">
 
                         <ImageButton
-                            android:clickable="false"
                             android:layout_width="wrap_content"
                             android:layout_height="match_parent"
                             android:background="@color/transparent"
-                            android:tint="@color/deep_purple_500"
+                            android:clickable="false"
+                            android:tint="@color/orange_500"
                             app:srcCompat="@drawable/ic_baseline_info_24" />
 
                         <TextView
@@ -314,11 +314,11 @@
                         android:paddingRight="@dimen/spacing_large">
 
                         <ImageButton
-                            android:clickable="false"
                             android:layout_width="wrap_content"
                             android:layout_height="match_parent"
                             android:background="@color/transparent"
-                            android:tint="@color/deep_purple_500"
+                            android:clickable="false"
+                            android:tint="@color/orange_500"
                             app:srcCompat="@drawable/ic_baseline_power_settings_new_24" />
 
                         <TextView

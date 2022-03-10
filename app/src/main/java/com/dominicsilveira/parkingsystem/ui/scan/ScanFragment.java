@@ -339,6 +339,7 @@ public class ScanFragment extends Fragment implements NumberPlatePopUp.NumberPla
                 });
 
             } catch(Exception e) {
+                Toast.makeText(getActivity(), "Your Plate Recognizer Free Licence Expired", Toast.LENGTH_SHORT).show();
                 e.printStackTrace();
             }
         }
